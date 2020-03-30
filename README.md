@@ -1,7 +1,9 @@
 # Introduction
   For this project analyzing the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles they will like. 
 
-project will be divided into the following tasks
+## Tasks
+   
+   project will be divided into the following tasks
 
    - I. Exploratory Data Analysis
 
